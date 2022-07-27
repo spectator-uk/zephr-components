@@ -1,2 +1,2 @@
-# zephr-components
-A repo for the Zephr components.
+i# zephr-components
+A repo for the required components.
